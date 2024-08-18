@@ -1,0 +1,1 @@
+!function(){"use strict";var e,r,t,n=function(e){for(var r=document.getElementsByTagName("script"),t=0;t<r.length;t++){var n=r[t];if(-1!==n.src.indexOf(e)){var c=n.src.split("?")[1];return c?"?"+c:""}}return""}("/bridge/intg.js");e="/bridge/index.js"+n,(t=document.createElement("script")).src=e,t.async=r,document.head.appendChild(t)}();
